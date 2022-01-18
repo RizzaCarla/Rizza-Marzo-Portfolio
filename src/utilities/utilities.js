@@ -5,9 +5,9 @@ import AirPlant3 from '../files/AirPlant3.jpg';
 import Satisfy1 from '../files/satisfy2.JPG';
 import Satisfy2 from '../files/satisfy3.JPG';
 import Satisfy3 from '../files/satisfydiscover.JPG';
-import MeltingPot1 from '../files/MeltingPot2.JPG';
-// import MeltingPot1 from '../files/MeltingPot2.JPG';
-// import MeltingPot1 from '../files/MeltingPot2.JPG';
+import MeltingPot1 from '../files/MeltingPot.JPG';
+import MeltingPot2 from '../files/MeltingPot3.png';
+import MeltingPot3 from '../files/MeltingPot4.png';
 import resume from '../files/Resume - Rizza Marzo.pdf';
 
 export const images = {
@@ -19,8 +19,8 @@ export const images = {
   "Satisfy2": <img className="collagePic" src={Satisfy2} />,
   "Satisfy3": <img className="collagePic" src={Satisfy3} />,
   "MeltingPot1": <img className="collagePic" src={MeltingPot1} />,
-  // "MeltingPot2": <img className="collagePic" src={MeltingPot2} />,
-  // "MeltingPot3": <img className="collagePic" src={MeltingPot3} />,
+  "MeltingPot2": <img className="collagePic" src={MeltingPot2} />,
+  "MeltingPot3": <img className="collagePic" src={MeltingPot3} />,
 }
 
 export const files = {

@@ -2,11 +2,6 @@
   text-align: center;
 }
 
-body {
-  background: rgb(224,255,180);
-  background: linear-gradient(121deg, rgba(224,255,180,1) 27%, rgba(200,234,255,1) 78%) fixed;
-}
-
 .profilePic {
   max-width: 100%;
   border-radius: 10%;
@@ -16,4 +11,27 @@ body {
 .collagePic {
   max-width: 100%;
   object-fit: cover;
+}
+
+.body-1 {
+  background-color: #EBFBFF;
+  padding: 5rem;
+}
+
+.body-2 {
+  background-color: #F0F4FF;
+  padding: 5rem;
+}
+
+.body-3 {
+  background-color: white;
+  padding: 5rem;
+}
+
+.home {
+  margin: 0;
+}
+
+.no-underline {
+  text-decoration: none;
 }
