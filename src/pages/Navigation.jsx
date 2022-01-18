@@ -11,7 +11,7 @@ const Navigation = () => {
           <Nav>
             <Nav.Link href="/">Home</Nav.Link>
             <Nav.Link href={files.resume} target="_blank">Resume</Nav.Link>
-            <Nav.Link href="/Portfolio">Portfolio</Nav.Link>
+            <Nav.Link href="/projects">Projects</Nav.Link>
           </Nav>
         {/* </Navbar.Collapse> */}
       </Container>
