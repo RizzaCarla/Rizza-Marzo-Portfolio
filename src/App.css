@@ -1,4 +1,5 @@
 .App {
+  font-family: 'Noto Serif', serif;
   text-align: center;
 }
 
@@ -13,25 +14,34 @@
   object-fit: cover;
 }
 
+body {
+  color: navy;
+}
+
 .body-1 {
   background-color: #EBFBFF;
   padding: 5rem;
+  color: #013220;
 }
 
 .body-2 {
   background-color: #F0F4FF;
   padding: 5rem;
+  color: #472C4C;
 }
 
 .body-3 {
   background-color: white;
   padding: 5rem;
+  color: #013220;
 }
 
 .home {
-  margin: 0;
+  width: 100%;
+  margin: 0px;
 }
 
 .no-underline {
   text-decoration: none;
+  color: #013220;
 }
